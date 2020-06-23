@@ -1,0 +1,41 @@
+body {
+ 
+    background-image:url('https://st3.depositphotos.com/3950183/18358/v/600/depositphotos_183589556-stock-video-light-blue-glowing-background-floating.jpg'); 
+      font-family: Arial;
+      background-size: auto 100vh;
+      height: 100vh;
+    }
+    
+    .menu{
+      background-image: url("https://image.freepik.com/free-vector/elegant-white-background-with-shiny-lines_1017-17580.jpg");
+      background-size: 50px;
+    }
+    
+    .menu ul {
+      display: flex;
+      justify-content: space-around;
+    }
+    
+    a {
+      text-decoration: none;
+      color: green;
+    }
+    
+    a:hover {
+      text-decoration: underline;
+    }
+    
+    .menu li {
+      list-style: none;
+    }
+    
+    .site-title {
+      color: whitesmoke;
+      text-align: center;
+    }
+    
+    .site-subtitle {
+      color: whitesmoke;
+      font-family: Monotype Corsiva;
+      text-align: center;
+    }
